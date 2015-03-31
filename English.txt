@@ -1,1 +1,6 @@
 As far as I see
+This requires from us
+I have  a couple of issues regarding displaying
+You can learn more about the logic in the spec
+Another thing is about
+I just wanted to clarify if this issue was agreed and this feature is possible to implement
