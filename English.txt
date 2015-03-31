@@ -4,3 +4,12 @@ I have  a couple of issues regarding displaying
 You can learn more about the logic in the spec
 Another thing is about
 I just wanted to clarify if this issue was agreed and this feature is possible to implement
+Please see Vadim’s answers.
+Do we prefer to use
+I've been informed by the product team that
+It will not be possible to begin integration for the next version in this current state.
+Is the developer’s guide availible to share?
+If so, could you please send it to us?
+We have successfully gone live
+Apologies for the delay in response.
+All is well thanks! Hope so too on your side
