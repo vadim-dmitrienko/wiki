@@ -23,3 +23,6 @@ Could you please advice if 'Secure Payment Page' should have the same behavior
 Please be informed that we have created
 Documentation and reference information on our products and services can be found in the
 will not be available for approx
+Could you please advice if 'Secure Payment Page' should have the same behavior
+is working as expected
+
