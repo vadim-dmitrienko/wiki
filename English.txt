@@ -26,4 +26,7 @@ will not be available for approx
 Could you please advice if 'Secure Payment Page' should have the same behavior
 is working as expected
 can you please describe the production behavior so we have a fixed reference
+i don't see why we need to depend
+Also, please discuss all the server configuration changes with
+it's a wrong architecture and we won't change it
 
