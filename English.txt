@@ -1,3 +1,4 @@
+it's not worth the improvement it might achieve
 should be discussed with
 I will go over the rest of the bugs today and assign them to the fixed version
 As far as I see
