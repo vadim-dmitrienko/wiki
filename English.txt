@@ -1,3 +1,8 @@
+Did you discuss it with
+We should be able to check if our system works well with this change first.
+I have attached the documentation (I'm not sure if you have previously been sent these) for reference.
+Please give me the go ahead when you’re ready, and I will make it happen.
+For the request to turn on the extended response, we are good to turn the switch
 It might be worth looking at
 it's not worth the improvement it might achieve
 should be discussed with
