@@ -1,3 +1,4 @@
+Followed by meeting with Aleksei, there are topics that we've discussed:
 I didn't find the rates update logic and commands, can you point me to it?
 I won’t be able to attend today
 Did you discuss it with
