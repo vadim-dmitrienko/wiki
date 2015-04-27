@@ -1,3 +1,4 @@
+We would be happy to receive any additional information regarding using
 Here is more details about the topics we discussed
 During Carrier billing implementation we have faced some issues that I've discussed
 Followed by meeting with Aleksei, there are topics that we've discussed:
