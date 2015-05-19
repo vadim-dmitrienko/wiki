@@ -1,4 +1,6 @@
-
+it's his final say on whether the version is ready for release or not. 
+feel free to add comments or corrections as well
+Please let me know if you have any questions.
 I’ll be out of office today with the limited access to emails.
 Maintenance finished successfully.
 Sorry for inconvenience.
@@ -28,6 +30,7 @@ You can learn more about the logic in the spec
 Another thing is about
 I just wanted to clarify if this issue was agreed and this feature is possible to implement
 Please see Vadim’s answers.
+According to current situation ..
 Do we prefer to use
 I've been informed by the product team that
 It will not be possible to begin integration for the next version in this current state.
