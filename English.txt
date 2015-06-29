@@ -60,3 +60,5 @@ i don't see why we need to depend
 Also, please discuss all the server configuration changes with
 it's a wrong architecture and we won't change it
 could you please review the suggested solution and approve database changes
+Thanks everyone for all the hard work and good luck to all of us.
+
